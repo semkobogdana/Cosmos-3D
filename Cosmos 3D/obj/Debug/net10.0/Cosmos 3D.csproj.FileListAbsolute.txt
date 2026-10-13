@@ -1,0 +1,14 @@
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\bin\Debug\net10.0\Cosmos 3D.exe
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\bin\Debug\net10.0\Cosmos 3D.deps.json
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\bin\Debug\net10.0\Cosmos 3D.runtimeconfig.json
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\bin\Debug\net10.0\Cosmos 3D.dll
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\bin\Debug\net10.0\Cosmos 3D.pdb
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\obj\Debug\net10.0\Cosmos 3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\obj\Debug\net10.0\Cosmos 3D.AssemblyInfoInputs.cache
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\obj\Debug\net10.0\Cosmos 3D.AssemblyInfo.cs
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\obj\Debug\net10.0\Cosmos 3D.csproj.CoreCompileInputs.cache
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\obj\Debug\net10.0\Cosmos 3D.dll
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\obj\Debug\net10.0\refint\Cosmos 3D.dll
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\obj\Debug\net10.0\Cosmos 3D.pdb
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\obj\Debug\net10.0\Cosmos 3D.genruntimeconfig.cache
+C:\Users\Mouse\OneDrive\Desktop\Cosmos 3D\obj\Debug\net10.0\ref\Cosmos 3D.dll
